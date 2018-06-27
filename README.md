@@ -14,3 +14,19 @@ In this workshop, we will answer all of these questions, and will find the resol
 Whether your focus is more on end-to-end or unit level testing, Jest can help you remove unnecessary noise from your daily work by unifying test automation across the whole testing pyramid, from unit through integration to end-to-end level, allowing you to use a single language, API and tooling.
 
 During this workshop, we will work with Jest and the headless Chrome-based Puppeteer to write, manage, and own all of our automated tests, written in a single language: JavaScript.
+
+## Jest
+
+- simple unit tests
+- using mocks, spies
+- timer mocks
+- async
+- snapshots
+
+## Puppeteer
+
+- generate screenshot
+- save page as PDF
+- set viewport size
+- fill and submit forms
+- setting timeout

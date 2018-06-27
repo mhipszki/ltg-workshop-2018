@@ -19,6 +19,12 @@ class App extends Component {
           beside being highly extendable via its plugin system.
         </p>
         <p className="App-intro">
+          <a href="https://pptr.dev/">Puppeteer</a> is a Node library which
+          provides a high-level API to control headless Chrome or Chromium over
+          the DevTools Protocol. It can also be configured to use full
+          (non-headless) Chrome or Chromium.
+        </p>
+        <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
