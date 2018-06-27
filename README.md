@@ -30,3 +30,36 @@ During this workshop, we will work with Jest and the headless Chrome-based Puppe
 - set viewport size
 - fill and submit forms
 - setting timeout
+
+## How to start
+
+### Prereqs
+
+- Node.js 8+ (use [nvm](https://github.com/creationix/nvm))
+- `npm i -g yarn create-react-app`
+
+### Install project dependencies
+
+```
+yarn
+```
+
+### Run scripts
+
+Start the app:
+
+```
+yarn start
+```
+
+Run the unit tests:
+
+```
+yarn test
+```
+
+Run the e2e tests:
+
+```
+yarn test-e2e
+```
