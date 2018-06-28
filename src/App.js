@@ -8,7 +8,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to our Jest workshop</h1>
+          <h1 data-test-id="page-title" className="App-title">
+            Welcome to our Jest workshop
+          </h1>
         </header>
         <p className="App-intro">
           <a href="http://jestjs.io/en/">Jest</a> provides a fantastic user
