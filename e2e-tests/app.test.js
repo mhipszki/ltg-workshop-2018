@@ -1,4 +1,4 @@
-describe('app', () => {
+describe.skip('app', () => {
   beforeEach(async () => {
     await page.goto('http://localhost:3000');
   });
